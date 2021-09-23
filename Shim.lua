@@ -1,4 +1,4 @@
-local WagoAnalyticsShim = LibStub:NewLibrary("WagoAnalytics", 2)
+local WagoAnalyticsShim = LibStub:NewLibrary("WagoAnalytics", 3)
 
 function WagoAnalyticsShim:Register(wagoID)
 	local WagoAnalytics = WagoAnalytics
